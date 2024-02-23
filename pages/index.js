@@ -1,3 +1,3 @@
 export default function Home() {
-  return <div>megapersonals</div>;
+  return <div>Joinvideocall</div>;
 }
